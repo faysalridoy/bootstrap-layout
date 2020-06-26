@@ -1,0 +1,22 @@
+body{
+    background-color:cornsilk; 
+}
+.header,.hero,.body,.footer,.bar{
+    background-color:aqua;
+    padding: 10px 0;
+    margin-bottom: 5px;
+    
+    
+}
+.box{
+    min-height: 50px;
+    background-color: peru;
+    margin:10px 0;
+    
+}
+.color{
+    background-color: crimson;
+}
+.color1{
+    background-color:#47df59;
+} 
